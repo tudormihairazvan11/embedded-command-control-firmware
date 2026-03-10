@@ -48,3 +48,5 @@ Run:
 - Ring buffers
 - Cooperative scheduling
 - Watchdog safety systems
+
+<img width="718" height="259" alt="image" src="https://github.com/user-attachments/assets/05bf591b-cea6-46ad-9b70-4707e448142e" />
